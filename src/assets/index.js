@@ -9,6 +9,7 @@ import menu from "./menu.svg";
 import close from "./close.svg";
 import tracking from "./tracking.png";
 import multipleop from "./multiple_option.png";
+import list from "./list.png"
 
 import css from "./tech/css.png";
 import docker from "./tech/docker.png";
@@ -23,6 +24,7 @@ import redux from "./tech/redux.png";
 import tailwind from "./tech/tailwind.png";
 import typescript from "./tech/typescript.png";
 import threejs from "./tech/threejs.svg";
+
 
 import meta from "./company/meta.png";
 import shopify from "./company/shopify.png";
@@ -66,4 +68,5 @@ export {
   carrent,
   jobit,
   tripguide,
+  list,
 };
