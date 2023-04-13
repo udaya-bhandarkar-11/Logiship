@@ -18,6 +18,7 @@ import {
     docker,
     meta,
     starbucks,
+    user,
     tesla,
     shopify,
     carrent,
@@ -121,8 +122,8 @@ import {
   const experiences = [
     {
       title: "React.js Developer",
-      company_name: "Starbucks",
-      icon: starbucks,
+      company_name: "User",
+      icon: user,
       iconBg: "#383E56",
       date: "March 2020 - April 2021",
       points: [
