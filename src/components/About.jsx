@@ -35,8 +35,7 @@ const About = () => {
       <motion.p variants={fadeIn("","","0.1",1)} 
       className="mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]"
       >
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras eleifend mauris tempus viverra suscipit. Ut malesuada ligula mi, ac pulvinar libero ultricies eget. Maecenas commodo vestibulum sem non cursus. Aenean gravida dui erat, vitae ultricies lacus facilisis quis. Suspendisse nec tempus leo, sit amet rhoncus ipsum. Suspendisse non ex in nisi luctus volutpat. Sed efficitur, nibh at suscipit efficitur, arcu orci consectetur odio, ut ornare risus nulla id nisi. Nam rutrum eros et velit aliquet, non commodo ante molestie. Donec vitae condimentum tortor, in condimentum nunc.
-      </motion.p>
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit.  </motion.p>
 
       <div className='mt-20 flex flex-wrap gap-10'>
         {services.map((service, index) => (
