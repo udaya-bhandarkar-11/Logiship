@@ -32,5 +32,13 @@
   "description": "Hello",
   "main": "postcss.config.js",
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vinith-029/CLS.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Vinith-029/CLS/issues"
+  },
+  "homepage": "https://github.com/Vinith-029/CLS#readme"
 }
