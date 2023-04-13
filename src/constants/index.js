@@ -26,6 +26,7 @@ import {
     threejs,
     tracking,
     multipleop,
+    list,
   } from "../assets";
   
   export const navLinks = [
@@ -53,12 +54,12 @@ import {
       icon: tracking  ,
     },
     {
-      title: "Client Vendor Selection Menu",
+      title: "Client's Vendor Selection Menu",
       icon: multipleop,
     },
     {
-      title: "Content Creator",
-      icon: creator,
+      title: "Transport Listing",
+      icon: list,
     },
   ];
   
