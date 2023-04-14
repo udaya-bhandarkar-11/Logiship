@@ -13,7 +13,7 @@ const Hero = () => {
             Get It <span className='text-[#915EFF]'>Shipped</span>
           </h1>
           <p className={`${styles.heroSubText} mt-2 text-white-100`}>
-            Ship your goods to market with the transportion that <br className='sm:block hidden' /> nurtures your business to excellence. hustle Free transport
+            Ship your goods to market with the service that <br className='sm:block hidden' /> nurtures your business to excellence. Hustle Free transport.
           </p>
         </div>
           </div>
