@@ -37,14 +37,17 @@ import {
     {
       id: "Admin",
       title: "Admin",
+      path:"/Owner"
     },
     {
       id: "Warehouse",
       title: "Warehouse",
+      path:"/Owner",
     },
     {
       id: "Transport",
       title: "Transport",
+      path:"/Owner",
     },
   ];
   
