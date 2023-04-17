@@ -38,6 +38,7 @@ import {
     {
       id: "Warehouse",
       title: "Warehouse",
+      path: ""
     },
     {
       id: "Transport",
