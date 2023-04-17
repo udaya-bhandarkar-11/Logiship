@@ -4,8 +4,7 @@ import "./style.css";
 
 import { useState } from "react";
 import { useNavigate } from "react-router-dom";
-import { color } from "framer-motion";
-function Log() {
+function WLog() {
    
 
   const navigate = useNavigate();
@@ -101,4 +100,4 @@ function Log() {
      
 }
    
-export default Log;
+export default WLog;

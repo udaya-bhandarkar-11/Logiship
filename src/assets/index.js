@@ -31,6 +31,10 @@ import shopify from "./company/shopify.png";
 import starbucks from "./company/starbucks.png";
 import tesla from "./company/tesla.png";
 import user from "./company/user.png";
+import warehouse from "./company/warehouse.png";
+import features from "./company/features.png";
+//import truck from "./company/truck.png";
+import transport from "./company/transport.png";
 
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
@@ -52,6 +56,10 @@ export {
   docker,
   figma,
   multipleop,
+  warehouse,
+  features,
+  //truck,
+  transport,
   git,
   html,
   javascript,
