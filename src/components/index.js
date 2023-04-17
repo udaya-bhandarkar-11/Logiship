@@ -7,6 +7,7 @@ import Experience from './Experience';
 import Works from './Works';
 import Feedbacks from './Feedbacks';
 import Contact from './Contact';
+import WLog from '../Warehouse/WLogin';
 import Home from './Home'
 import Login from '../Owner/Login'
 
@@ -24,5 +25,6 @@ export {
   BallCanvas, 
   ComputersCanvas, 
   StarsCanvas,
-  Login
+  Login,
+  WLog
 }

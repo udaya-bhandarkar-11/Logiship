@@ -42,7 +42,7 @@ import {
     {
       id: "Warehouse",
       title: "Warehouse",
-      path:"/Owner",
+      path:"/Warehouse",
     },
     {
       id: "Transport",
