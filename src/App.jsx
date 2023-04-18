@@ -9,10 +9,24 @@ const App =() => {
     <Routes>
       <Route path="/"  element={<Home />} />
       <Route path="/Owner" element={<Login />} />
+      
+
       <Route path="/Warehouse" element={<WLog />}/>
     </Routes>
     </BrowserRouter>
   )
 }
+ const app=() => {
+   return (
+      <div className='h-screen w-full bg-cover bg-center bg-fixed bg-'>
+       
+<Login/>
+       
+      </div>
+   )
+   
+ }
+ 
 
-export default App
+
+export default App;
